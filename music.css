@@ -1,0 +1,14 @@
+*{
+    text-decoration: blue;
+}
+
+body{
+    background-color: aqua;
+    text-decoration: antiquewhite;
+    font-size: 45px;
+    font-style: italic;
+}
+
+.sound{
+    text-align: center;
+}
